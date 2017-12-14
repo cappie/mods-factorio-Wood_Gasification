@@ -13,6 +13,7 @@ data:extend({
       {type="fluid", name="tar", amount=1},
    },
    icon = "__Wood_Gasification__/graphics/wood-gasification.png",
+   icon_size = 32,
    subgroup = "fluid-recipes",
    order = "a[fluid-chemistry]-b[wood-gas-processing]"
 },
@@ -29,6 +30,7 @@ data:extend({
       {type="item", name="solid-fuel", amount=1},     
    },
    icon = "__Wood_Gasification__/graphics/solid-fuel-from-tar.png",
+   icon_size = 32,
    subgroup = "fluid-recipes",
    order = "a[fluid-chemistry]-b[solid-fuel-from-tar]",
    crafting_machine_tint =
@@ -51,6 +53,7 @@ data:extend({
       {type="fluid", name="heavy-oil", amount=25},
    },
    icon = "__Wood_Gasification__/graphics/heavy-oil-from-tar.png",
+   icon_size = 32,
    subgroup = "fluid-recipes",
    order = "a[fluid-chemistry]-b[heavy-oil-from-tar]",
    crafting_machine_tint =
