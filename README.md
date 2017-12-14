@@ -3,9 +3,15 @@ This is the repository for the Wood Gasification mod for Factorio.
 
 Wood gasification turns lots of wood into a small amount of petroleum gas and tar. Tar can be turned into solid fuel or heavy oil.
 
-This mod is an update for the 0.14 mod 'Wood Gas' which was discontinued; It's my attempt to upgrade 'Wood Gas' (0.14 only) to 0.15 and continue the development of the mod. The original author of 'Wood Gas' may contact me if he wants me to take this down. I just wanted to have it in my 0.15 games :)
+This mod is an update for the 0.14 mod 'Wood Gas' which was discontinued; It's my attempt to upgrade 'Wood Gas' (0.14 only) to 0.15+ and continue the development of the mod. The original author of 'Wood Gas' may contact me if he wants me to take this down. I just wanted to have it in my 0.15+ games :)
 
 # Changelog:
+0.5.1:
+- Added the Github page as the homepage URL in the info.json
+
+0.5.0:
+- Upgraded the mod to be compatible with 0.16.x
+
 0.4.0:
 - Put everything up on Github. I will be accepting pull requests, so go right ahead!
 
