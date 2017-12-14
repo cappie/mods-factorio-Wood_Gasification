@@ -3,6 +3,7 @@ data:extend({
     type = "technology",
     name = "wood-gas-processing",
     icon = "__Wood_Gasification__/graphics/wood-gasification.png",
+	icon_size = 32,
     prerequisites = {"oil-processing"},
     effects =
     {
