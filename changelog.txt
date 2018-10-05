@@ -1,3 +1,6 @@
+1.0.0:
+- After some hours of testing I declared this version v1.0.0; I'm quite happy with how it is now.
+---------------------------------------------------------------------------------------------------
 0.6.1:
 - Added raw-wood-gasification to use 'raw-wood' and changed wood-gasification to use actual 'wood'
 - Added & changed graphics for both forms of gasifications
