@@ -1,8 +1,8 @@
 0.6.1:
 - Added raw-wood-gasification to use 'raw-wood' and changed wood-gasification to use actual 'wood'
 - Added & changed graphics for both forms of gasifications
-- Added crafting_machine_tint for gasification progress to resemble smoke (thank you, [Reddit|https://www.reddit.com/r/factorio/comments/9ldsla/how_do_i_put_some_kind_of_animation_on_that_spot/])
-- Updated several small things
+- Added crafting_machine_tint for gasification progress to resemble smoke (thank you, Reddit ( https://www.reddit.com/r/factorio/comments/9ldsla/how_do_i_put_some_kind_of_animation_on_that_spot/ ))
+- Fixed small typos and changed the mod description
 ---------------------------------------------------------------------------------------------------
 0.6.0:
 - Fixed the balancing (thanks to emilquast for the value rebalancing)
