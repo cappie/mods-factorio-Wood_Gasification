@@ -1,0 +1,43 @@
+# Changelog:
+0.6.1:
+- Added raw-wood-gasification to use 'raw-wood' and changed wood-gasification to use actual 'wood'
+- Added & changed graphics for both forms of gasifications
+- Added crafting_machine_tint for gasification progress to resemble smoke (thank you, [Reddit|https://www.reddit.com/r/factorio/comments/9ldsla/how_do_i_put_some_kind_of_animation_on_that_spot/])
+- Updated several small things
+
+0.6.0:
+- Fixed the balancing (thanks to emilquast for the value rebalancing)
+- Upgraded the graphics to 64x64 tiles instead of the old 32x32
+
+0.5.1:
+- Added the Github page as the homepage URL in the info.json
+
+0.5.0:
+- Upgraded the mod to be compatible with 0.16.x
+
+0.4.0:
+- Put everything up on Github. I will be accepting pull requests, so go right ahead!
+
+0.3.1:
+- Tweaked some values to balance the module
+
+0.3.0:
+- Fluid and Item as output is probably not ok for Factorio; Changed recipe from "Tar to Heavy Oil & Coal" to "Tar to Heavy Oil"
+
+0.2.2:
+- Updated the description in the info.json to better reflect the changes of 0.2.x
+
+0.2.1:
+- Fixed info.json and tabs-to-spaces in some other file because of problems with JSON parser.
+
+0.2.0:
+- Added recipe to get Heavy oil and Coal from Tar in order to be able to bootstrap Coal liquefaction on oil-deprived maps.
+
+0.1.2:
+- Fixed some variables
+
+0.1.1:
+- Fixed texture paths.. doh :)
+
+0.1.0:
+- First version
