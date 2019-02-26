@@ -1,37 +1,12 @@
 data:extend({
     {
         type = "recipe",
-        name = "raw-wood-gasification",
-        category = "chemistry",
-        enabled = false,
-        energy_required = 5,
-        ingredients = {
-            {type="item", name="raw-wood", amount=4},
-        },
-        results = {
-            {type="fluid", name="petroleum-gas", amount=4},
-            {type="fluid", name="tar", amount=2},
-            {type="item", name="coal", amount=1},
-        },
-        icon = "__Wood_Gasification__/graphics/raw-wood-gasification.png",
-        icon_size = 64,
-        subgroup = "fluid-recipes",
-        order = "a[fluid-chemistry]-b[wood-gas-processing]",
-        crafting_machine_tint =
-        {
-          primary = {r = 0.698, g = 0.698, b = 0.698, a = 0.000}, -- #7f7f7f00
-          secondary = {r = 0.400, g = 0.400, b = 0.400, a = 0.000}, -- #66666600
-          tertiary = {r = 0.305, g = 0.305, b = 0.305, a = 0.000}, -- #4d4d4d00
-        }
-    },
-    {
-        type = "recipe",
         name = "wood-gasification",
         category = "chemistry",
         enabled = false,
         energy_required = 5,
         ingredients = {
-            {type="item", name="wood", amount=8},
+            {type="item", name="wood", amount=4},
         },
         results = {
             {type="fluid", name="petroleum-gas", amount=4},
