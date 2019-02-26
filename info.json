@@ -2,10 +2,10 @@
     "author": "cappie2000",
     "factorio_version": "0.17",
 	"dependencies": ["base >= 0.17"],
-    "description": "Wood gasification turns 4 logs (or 8 planks) into 4 petroleum gas, 2 units of tar, and 1 piece of coal. 40 tar can be turned into solid fuel or heavy oil. It's meant to be a nice way to kickstart your chemical plants.",
+    "description": "Wood gasification turns 4 wood into 4 petroleum gas, 2 units of tar, and 1 piece of coal. 40 tar can be turned into solid fuel or heavy oil. It's meant to be a nice way to kickstart your chemical plants.",
     "name": "Wood_Gasification",
     "homepage": "https://github.com/cappie/mods-factorio-Wood_Gasification",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "contact": "cappie2000@gmail.com",
     "title": "Wood Gasification"
 }
