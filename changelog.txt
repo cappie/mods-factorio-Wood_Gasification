@@ -1,8 +1,12 @@
+1.0.3:
+- Changed tar.png back to 32x32 pixels due to some placement problems for the barrels unloading and loading.
+---------------------------------------------------------------------------------------------------
 1.0.2:
 - Replaced planks (entity:wood) with logs (entity:raw-wood) as entity 'wood', as only 'wood' exists as of version 0.17.0
 - Replaced 'science-pack-1' to 'automation-science-pack' and 'science-pack-2' to 'logistic-science-pack'.
 - Fixed some strings here and there to reflect the removal of planks.
 - Added a nice 144x144 mod thumbnail
+---------------------------------------------------------------------------------------------------
 1.0.1:
 - Updated mod to work with 0.17.x
 ---------------------------------------------------------------------------------------------------
