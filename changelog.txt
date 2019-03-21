@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 2019-03-21
+  Changes:
+    - Added Dutch and German translations. (Thanks to Reysuke for the German translations)
+  Bugfixes:
+    - Fixed the English language strings to better facilitate translations.
+    - Fixed fluid tar properties to better reflect the actual properties of tar (not sure if this helps the game or not)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.3
 Date: 2019-03-10
   Changes:

@@ -2,10 +2,10 @@
     "author": "cappie2000",
     "factorio_version": "0.17",
 	"dependencies": ["base >= 0.17"],
-    "description": "Wood gasification turns 10 wood into 20 petroleum gas and 6 units of tar. 32 tar can be turned into 1 solid fuel or 20 heavy oil. This mod is meant to kickstart your chemical plants.",
+    "description": "Wood gasification turns 10 units of wood into 20 units of petroleum gas and 6 units of tar. 32 units of tar can be turned into 1 unit of solid fuel or 20 units of heavy oil. This mod is meant to kickstart your chemical plants.",
     "name": "Wood_Gasification",
     "homepage": "https://github.com/cappie/mods-factorio-Wood_Gasification",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "contact": "cappie2000@gmail.com",
     "title": "Wood Gasification"
 }
