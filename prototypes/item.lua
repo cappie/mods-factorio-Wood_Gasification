@@ -8,7 +8,7 @@ data:extend({
     flow_color = {r=0.1, g=0.1, b=0.1},
     max_temperature = 100,
     icon = "__Wood_Gasification__/graphics/tar.png",
-    icon_size = 64,
+    icon_size = 32,
     pressure_to_speed_ratio = 0.2,
     flow_to_energy_ratio = 0.70,
     order = "a[fluid]-t[tar]"

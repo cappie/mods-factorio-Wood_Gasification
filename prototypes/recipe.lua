@@ -6,12 +6,11 @@ data:extend({
         enabled = false,
         energy_required = 5,
         ingredients = {
-            {type="item", name="wood", amount=4},
+            {type="item", name="wood", amount=10},
         },
         results = {
-            {type="fluid", name="petroleum-gas", amount=4},
-            {type="fluid", name="tar", amount=2},
-            {type="item", name="coal", amount=1},
+            {type="fluid", name="petroleum-gas", amount=20},
+            {type="fluid", name="tar", amount=6},
         },
         icon = "__Wood_Gasification__/graphics/wood-gasification.png",
         icon_size = 64,
@@ -31,7 +30,7 @@ data:extend({
         enabled = false,
         energy_required = 5,
         ingredients = {
-            {type="fluid", name="tar", amount=40},
+            {type="fluid", name="tar", amount=32},
         },
         results = {
             {type="item", name="solid-fuel", amount=1},
@@ -54,10 +53,10 @@ data:extend({
         enabled = false,
         energy_required = 5,
         ingredients = {
-            {type="fluid", name="tar", amount=2},
+            {type="fluid", name="tar", amount=32},
         },
         results = {
-            {type="fluid", name="heavy-oil", amount=1},
+            {type="fluid", name="heavy-oil", amount=20},
         },
         icon = "__Wood_Gasification__/graphics/heavy-oil-from-tar.png",
         icon_size = 64,

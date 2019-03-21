@@ -9,20 +9,20 @@ data:extend({
     {
       {
         type = "unlock-recipe",
+        recipe = "wood-gasification",
+      },
+	  {
+        type = "unlock-recipe",
         recipe = "solid-fuel-from-tar"
       }, 
       {
         type = "unlock-recipe",
         recipe = "heavy-oil-from-tar"
       },
-      {
-        type = "unlock-recipe",
-        recipe = "wood-gasification",
-      },
     },
     unit =
     {
-      count = 75,
+      count = 100,
       ingredients = {{"automation-science-pack", 1},
       {"logistic-science-pack", 1}},
       time = 30
