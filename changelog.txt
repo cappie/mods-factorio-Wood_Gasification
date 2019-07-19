@@ -5,6 +5,7 @@ Date: 2019-07-19
     - Added advanced wood gasification using a refinery (28 wood & 50 water generates 35 heavy oil, 15 light and 20 petroleum gas
     - Added some nicer images for the technologies
     - Added calculations to the balancing.xls in the dev folder
+    - Removed the dev folder from the mod .zip archive (it's still available on GitHub, but the 250kb doesn't belong in the mod itself
   Broke:
     - Broke the german translations; feel free to retranslate them (Reysuke?)
 ---------------------------------------------------------------------------------------------------
