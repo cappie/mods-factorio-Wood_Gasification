@@ -69,4 +69,27 @@ data:extend({
             tertiary = {r = 0.870, g = 0.365, b = 0.000, a = 0.000}, -- #dd5d0000
         }
     },
+    {
+        type = "recipe",
+        name = "advanced-wood-gasification",
+        category = "oil-processing",
+        enabled = false,
+        energy_required = 10,
+        ingredients =
+        {
+          {type="item", name="wood", amount=28},
+          {type="fluid", name="water", amount=50}
+        },
+        results=
+        {
+          {type="fluid", name="heavy-oil", amount=35},
+          {type="fluid", name="light-oil", amount=15},
+          {type="fluid", name="petroleum-gas", amount=20}
+        },
+        icon = "__Wood_Gasification__/graphics/advanced-wood-gasification.png",
+        icon_size = 64,
+        subgroup = "fluid-recipes",
+        order = "a[oil-processing]-c[advanced-wood-gasification]",
+        allow_decomposition = false
+    },
 })

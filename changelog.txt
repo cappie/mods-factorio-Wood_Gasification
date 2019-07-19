@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2019-07-19
+  Changes:
+    - Added advanced wood gasification using a refinery (28 wood & 50 water generates 35 heavy oil, 15 light and 20 petroleum gas
+    - Added some nicer images for the technologies
+    - Added calculations to the balancing.xls in the dev folder
+  Broke:
+    - Broke the german translations; feel free to retranslate them (Reysuke?)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.4
 Date: 2019-03-21
   Changes:
