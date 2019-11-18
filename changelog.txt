@@ -1,4 +1,19 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.2
+Date: 2019-11-18
+  Changes:
+    - Added 'Holz' to the german translations
+    - Updated the GIT repository with the actual mod
+  Bugfixes:
+    - Fixed minor readme inconsistencies while updating the GIT repo
+---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2019-09-10
+  Changes:
+    - Fixed the english language strings (petroleum was spelled wrong, thanks for noticing, tyrannus1)
+    - Added german translations (thank you for translating, tyrannus1)
+    - Added russian translations (thank you for translating, Va7ya)
+---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 2019-07-19
   Changes:
