@@ -13,4 +13,4 @@ This mod comes in 4 languages:
 This mod is an update for the 0.14 mod 'Wood Gas' which was discontinued; It's my attempt to upgrade 'Wood Gas' (0.14 only) to 0.15+ and continue the development of the mod. The original author ('mooklepticon') of 'Wood Gas' has given me his blessing to continue this mod.
 
 # Translators wanted!
-I would love to be able to support even more languages like French, Spanish, Italian and Japanese. If you would like to help, please take a look at the repository, or if you don't know how to do that Github thing, just contact me here and I'll add your translated strings from the locale-file to the mods' repository.
+I would love to be able to support even more languages like French, Spanish, Italian and Japanese. If you would like to help, please take a look at the repository, or if you don't know how to do that Github thing, just contact me via https://mods.factorio.com/ and I'll add your translated strings from the locale-file to the mods' repository.
