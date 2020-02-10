@@ -10,7 +10,7 @@ data:extend({
     icon = "__Wood_Gasification__/graphics/tar.png",
     icon_size = 32,
     pressure_to_speed_ratio = 0.2,
-    flow_to_energy_ratio = 0.70,
+    flow_to_energy_ratio = 0.80,
     order = "a[fluid]-t[tar]"
   },
 })

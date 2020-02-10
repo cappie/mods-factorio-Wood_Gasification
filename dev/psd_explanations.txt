@@ -1,0 +1,1 @@
+thumbnail.psd is 144x144, because the mod thumbnail wants this, however, the same images are used for the technologies, only crisply (sharpened image reduction) resized to 128x128

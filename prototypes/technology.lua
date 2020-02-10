@@ -3,7 +3,7 @@ data:extend({
     type = "technology",
     name = "wood-gas-processing",
     icon = "__Wood_Gasification__/graphics/wood-gas-processing.png",
-    icon_size = 64,
+    icon_size = 128,
     prerequisites = {"oil-processing"},
     effects =
     {
@@ -15,16 +15,37 @@ data:extend({
         type = "unlock-recipe",
         recipe = "solid-fuel-from-tar"
       }, 
-      {
-        type = "unlock-recipe",
-        recipe = "heavy-oil-from-tar"
-      },
     },
     unit =
     {
       count = 100,
-      ingredients = {{"automation-science-pack", 1},
-      {"logistic-science-pack", 1}},
+      ingredients = {
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1}},
+      time = 30
+    },
+    order = "d-b"
+  },
+  {
+    type = "technology",
+    name = "wood-gas-processing-to-crude-oil",
+    icon = "__Wood_Gasification__/graphics/wood-gas-processing-to-crude-oil.png",
+    icon_size = 128,
+    prerequisites = {"wood-gas-processing"},
+    effects =
+    {
+      {
+        type = "unlock-recipe",
+        recipe = "crude-oil-from-tar",
+      },
+    },
+    unit =
+    {
+      count = 400,
+      ingredients = {
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1}
+      },
       time = 30
     },
     order = "d-b"
@@ -33,8 +54,8 @@ data:extend({
     type = "technology",
     name = "advanced-wood-gas-processing",
     icon = "__Wood_Gasification__/graphics/advanced-wood-gas-processing.png",
-    icon_size = 64,
-    prerequisites = {"oil-processing"},
+    icon_size = 128,
+    prerequisites = {"wood-gas-processing"},
     effects =
     {
       {
@@ -44,10 +65,12 @@ data:extend({
     },
     unit =
     {
-      count = 200,
-      ingredients = {{"automation-science-pack", 1},
-      {"logistic-science-pack", 1},
-      {"chemical-science-pack", 1}},
+      count = 150,
+      ingredients = {
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1}
+      },
       time = 30
     },
     order = "d-b"

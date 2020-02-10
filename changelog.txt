@@ -1,4 +1,34 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.3.0
+Date: 2020-02-06
+  Rebalancing:
+    - Wood gasification costs 100 automation and logistic science (reasonably simple to research)
+    - Wood gasification of bitumen to oil costs 400 automation and logistic science (it's simple science, but hard to perfect)
+    - Advanced wood gasification costs 150 automation, logistic and chemical science (wood-to-oil easy-mode will take some effort)
+    - Wood gasification uses 10 wood to produce 20 petroleum gas and 8 bitumen (80% efficient)
+    - Wood gasification enables you to convert 32 bitumen into 1 solid fuel (75% efficient)
+    - Advanced bitumen processing uses 32 bitumen and 200 water to produce 40 crude oil (90% efficient (crude oil takes another efficiency hit during refining))
+    - Advanced wood gasification uses 20 wood and 200 water to produce 15 heavy oil, 15 light oil and 30 petroleum gas (90% efficient)
+  Changes:
+    - Changed the text string of Tar into Diluted Bitumen to be somewhat more scientifically correct, internally it's all still 'tar' for brevity.
+    - Added bitumen processing to crude oil using bitumen upgrading so you can turn wood into crude oil
+    - Added wood-gasification-to-oil as a new researchable technology after advanced wood gasification
+    - Updated the balancing.xls to show the calculations behind the wood-gasification-to-oil recipe
+    - Updated the source.psd after creating the graphics for the new wood-gasification-to-oil recipe and technology
+  Bugfixes:
+    - Fixed wood (and water) showing up as raw product for other oil-related products (this should be crude oil, not wood)
+    - Fixed the graphics by removing the coal that was still in there from older versions
+  Notes:
+    - Just FYI: this version of the mod still works with 0.17.x
+  Broke:
+    - The Russian and German translations probably need work since I used Google translate for the new tech.
+    - I tried not to break too much, but your wood processing setups probably need some love and attention.
+---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: 2020-02-06
+  Changes:
+    - Made the mod work with 0.18.x (sorry for being late to the party)
+---------------------------------------------------------------------------------------------------
 Version: 2.1.2
 Date: 2019-11-18
   Changes:

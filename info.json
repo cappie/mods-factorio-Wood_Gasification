@@ -1,11 +1,11 @@
 {
     "author": "cappie2000",
-    "factorio_version": "0.17",
+    "factorio_version": "0.18",
 	"dependencies": ["base >= 0.17"],
-    "description": "Wood gasification uses a chemical lab to turn 10 units of wood into 20 units of petroleum gas and 6 units of tar. 32 units of tar can be turned into 1 unit of solid fuel or 20 units of heavy oil. Advanced wood gasification processes 28 wood and 50 water into 35 units of heavy oil, 15 units of light oil and 20 petroleum gas using a refinery. This mod is meant to kickstart your chemical plants.",
+    "description": "Wood gas processing uses a chemical lab to turn wood into petroleum gas and diluted bitumen. Diluted bitumen can be turned into solid fuel. With some further research, you can turn diluted bitumen and water into crude oil. At a higher research level, you'll have advanced wood gasification processes that uses a refinery to turn wood and water into heavy oil, light oil and petroleum gas. This mod is meant to kickstart your chemical plants.",
     "name": "Wood_Gasification",
     "homepage": "https://github.com/cappie/mods-factorio-Wood_Gasification",
-    "version": "2.1.2",
+    "version": "2.3.0",
     "contact": "cappie2000@gmail.com",
     "title": "Wood Gasification"
 }
