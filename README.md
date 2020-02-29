@@ -7,7 +7,7 @@ Wood gasification is the process of turning wood into it's carbohydrate constitu
 
 Wood gasification comes in two flavors: Wood gas processing uses a chemical lab to turn 10 units of wood into 20 units of petroleum gas and 8 units of diluted bitumen. 32 units of diluted bitumen can be turned into 1 unit of solid fuel. With some further research, you can turn 32 diluted bitumen and 200 water into 40 crude oil. At a higher research level, you'll have advanced wood gasification processes that uses a refinery to turn 20 wood and 200 water into 15 units of heavy oil, 15 units of light oil and 30 petroleum gas. This mod is meant to kick-start your chemical plants (or when you have a shortage of crude oil OR a surplus of wood on your map)
 
-This mod comes in 4 languages:
+This mod has been translated to these languages:
 - English (cappie)
 - Dutch (cappie)
 - German (Reysuke)
