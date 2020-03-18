@@ -17,6 +17,9 @@ This mod has been translated to these languages:
 - Russian (Va7ya)
 - French (kryshnar & meah41)
 - Polish (Mgis)
+- Spanish (Deepl.com)
+- Italian (Deepl.com)
+- Portuguese (Deepl.com)
 
 ## Continuation of unmaintained mod
 
