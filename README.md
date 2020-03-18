@@ -1,6 +1,6 @@
 # Mods: Factorio: Wood Gasification
 
-![picture](thumbnail.png)
+<img align="right" width="100" height="100" src="https://github.com/cappie/mods-factorio-Wood_Gasification/blob/master/thumbnail.png">
 This is the repository for the Wood Gasification mod for Factorio.
 
 Too much wood? No oil on your map? Want petroleum gas, solid fuel or crude oil? Then this mod's for you!
