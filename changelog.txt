@@ -1,14 +1,15 @@
 ---------------------------------------------------------------------------------------------------
-Version: 2.4.1
+Version: 2.5.0
 Date: 2020-03-18
   Changes:
+    - Added Spanish, Italian and Portuguese translations using Deepl.com
     - Changed some Dutch translations
-  Fixed:
+  Bugfixes:
     - Fixed my broken changelog (I REALLY need automated tests and a changelog linter for these factorio mods)
 ---------------------------------------------------------------------------------------------------
 Version: 2.4.0
 Date: 2020-03-14
-  Updated:
+  Changes:
     - Added Polish and French translations
 ---------------------------------------------------------------------------------------------------
 Version: 2.3.0
