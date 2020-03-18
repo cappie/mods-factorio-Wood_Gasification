@@ -1,3 +1,4 @@
+![picture](thumbnail.png)
 # Mods: Factorio: Wood Gasification
 This is the repository for the Wood Gasification mod for Factorio.
 
