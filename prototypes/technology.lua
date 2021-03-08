@@ -2,8 +2,8 @@ data:extend({
   {
     type = "technology",
     name = "wood-gas-processing",
-    icon = "__Wood_Gasification__/graphics/wood-gas-processing.png",
-    icon_size = 128,
+    icon = "__Wood_Gasification__/graphics/technology/wood-gas-processing.png",
+    icon_size = 256, icon_mipmaps = 4,
     prerequisites = {"oil-processing"},
     effects =
     {
@@ -29,8 +29,8 @@ data:extend({
   {
     type = "technology",
     name = "wood-gas-processing-to-crude-oil",
-    icon = "__Wood_Gasification__/graphics/wood-gas-processing-to-crude-oil.png",
-    icon_size = 128,
+    icon = "__Wood_Gasification__/graphics/technology/wood-gas-processing-to-crude-oil.png",
+    icon_size = 256, icon_mipmaps = 4,
     prerequisites = {"wood-gas-processing"},
     effects =
     {
@@ -53,8 +53,8 @@ data:extend({
   {
     type = "technology",
     name = "advanced-wood-gas-processing",
-    icon = "__Wood_Gasification__/graphics/advanced-wood-gas-processing.png",
-    icon_size = 128,
+    icon = "__Wood_Gasification__/graphics/technology/advanced-wood-gas-processing.png",
+    icon_size = 256, icon_mipmaps = 4,
     prerequisites = {"wood-gas-processing"},
     effects =
     {
