@@ -12,8 +12,8 @@ data:extend({
             {type="fluid", name="petroleum-gas", amount=20},
             {type="fluid", name="tar", amount=8},
         },
-        icon = "__Wood_Gasification__/graphics/wood-gasification.png",
-        icon_size = 64,
+        icon = "__Wood_Gasification__/graphics/icon/wood-gasification.png",
+        icon_size = 64, icon_mipmaps = 3,
         subgroup = "fluid-recipes",
         order = "a[fluid-chemistry]-w[wood-gas-processing]",
         crafting_machine_tint =
@@ -39,8 +39,8 @@ data:extend({
         results = {
             {type="item", name="solid-fuel", amount=1},
         },
-        icon = "__Wood_Gasification__/graphics/solid-fuel-from-tar.png",
-        icon_size = 64,
+        icon = "__Wood_Gasification__/graphics/icon/solid-fuel-from-tar.png",
+        icon_size = 64, icon_mipmaps = 3,
         subgroup = "fluid-recipes",
         order = "a[fluid-chemistry]-w[solid-fuel-from-tar]",
         crafting_machine_tint =
@@ -67,8 +67,8 @@ data:extend({
         results = {
             {type="fluid", name="crude-oil", amount=40},
         },
-        icon = "__Wood_Gasification__/graphics/crude-oil-from-tar.png",
-        icon_size = 64,
+        icon = "__Wood_Gasification__/graphics/icon/crude-oil-from-tar.png",
+        icon_size = 64, icon_mipmaps = 3,
         subgroup = "fluid-recipes",
         order = "a[fluid-chemistry]-w[crude-oil-from-tar]",
         crafting_machine_tint =
@@ -99,8 +99,8 @@ data:extend({
           {type="fluid", name="light-oil", amount=15},
           {type="fluid", name="petroleum-gas", amount=30}
         },
-        icon = "__Wood_Gasification__/graphics/advanced-wood-gasification.png",
-        icon_size = 64,
+        icon = "__Wood_Gasification__/graphics/icon/advanced-wood-gasification.png",
+        icon_size = 64, icon_mipmaps = 3,
         subgroup = "fluid-recipes",
         order = "a[oil-processing]-w[advanced-wood-gasification]",
         always_show_products = true,
