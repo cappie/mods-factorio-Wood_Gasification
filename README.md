@@ -35,3 +35,7 @@ This mod processes wood into oil products.
 
 - Early game: Wood in Chemical plant creates Petroleum Gas & Diluted Bitumen. Diluted Bitumen & Water in Chemical plant produces either Crude Oil or Solid Fuel
 - Later game: Wood in Refinery creates Heavy Oil, Light Oil & Petroleum Gas directly.
+
+## TODO:
+
+I would like to make the ratios variable; if anyone knows how to do this, feel free to submit a pull request and tell me your mods.factorio.com username; I'll make you a contributer too.
