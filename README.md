@@ -1,3 +1,5 @@
+NOTE: I am looking for contributors that would like to help me update this code for Factorio 2.0 .. drop me a line @ cappie2000+factoriomods@gmail.com if you want to become a contributor.
+
 # Mods: Factorio: Wood Gasification
 
 <img align="right" width="100" height="100" src="https://github.com/cappie/mods-factorio-Wood_Gasification/blob/master/thumbnail.png">
